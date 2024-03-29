@@ -2,3 +2,4 @@ venv/
 migrations/
 app.db
 __pychache__/
+.DS_Store
