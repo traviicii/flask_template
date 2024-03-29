@@ -5,7 +5,7 @@ This is a simple template for a basic Flask application.
 
 ## Installation
 
-**Clone the project**
+**Clone the template**
 
 ```git
   git clone https://github.com/traviicii/flask_template
