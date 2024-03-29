@@ -1,5 +1,7 @@
 from . import db
 
+# this is where we can create the skeleton for our database structure i.e, tables and relationships
+
 class Task(db.Model):
     id = db.Column(db.Integer, primary_key = True)
     title = db.Column(db.String, nullable= False)

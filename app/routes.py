@@ -1,5 +1,7 @@
 from . import app, db
 
+# create accessible routes for our application functionality
+
 @app.route("/")
 def homepage():
     return "Look we did it!"
