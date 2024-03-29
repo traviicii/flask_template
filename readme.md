@@ -22,7 +22,7 @@ This is a simple template for a basic Flask application.
 ```bash
   python -m venv myvenv
 ```
-**Activate your virtual environment**
+**Activate your `virtual environment`**
 
 *Mac*
 >```bash
