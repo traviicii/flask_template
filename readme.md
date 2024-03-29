@@ -26,11 +26,11 @@ This is a simple template for a basic Flask application.
 
 *Mac*
 >```bash
->source myvenv/bin/activate
+>source <name>/bin/activate
 >```
 *PC*
 >```bash
->myvenv\Scripts\activate.bat
+><name>\Scripts\activate.bat
 >```
 
 **Install dependencies**
