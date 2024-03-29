@@ -7,7 +7,7 @@ This is a simple template for a basic Flask application.
 
 **Clone the project**
 
-```bash
+```git
   git clone https://github.com/traviicii/flask_template
 ```
 
