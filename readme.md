@@ -20,7 +20,7 @@ This is a simple template for a basic Flask application.
 **Create your `virtual environment`**
 
 ```bash
-  python -m venv <name>
+  python3 -m venv <name>
 ```
 **Activate your `virtual environment`**
 
